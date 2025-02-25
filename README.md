@@ -8,3 +8,4 @@ Al agregar un empleado, el usuario sera su id y la contraseña sera 1234 para to
 
 Favor de cambiar el host ya que sera una computadora diferente.
 
+Para ingresar los codigos yo uso una aplicacion que esta para celular y pc llamada Barcode
