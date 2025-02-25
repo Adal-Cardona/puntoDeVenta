@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B212A1F0-61DF-4C2C-9CA1-3565EBC8AD80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cardona_s_Shop</RootNamespace>
+    <AssemblyName>Cardona%27s Shop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cambiarInfoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cambiarInfoProducto.Designer.cs">
+      <DependentUpon>cambiarInfoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cambioDeInfoEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cambioDeInfoEmpleados.Designer.cs">
+      <DependentUpon>cambioDeInfoEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cambioGerencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cambioGerencia.Designer.cs">
+      <DependentUpon>cambioGerencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexion.cs" />
+    <Compile Include="entradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="entradas.Designer.cs">
+      <DependentUpon>entradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevoEmpleado.Designer.cs">
+      <DependentUpon>nuevoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevoProducto.Designer.cs">
+      <DependentUpon>nuevoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nuevoDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevoDepartamento.Designer.cs">
+      <DependentUpon>nuevoDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nuevosPuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nuevosPuestos.Designer.cs">
+      <DependentUpon>nuevosPuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="revisarStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="revisarStock.Designer.cs">
+      <DependentUpon>revisarStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ventas.Designer.cs">
+      <DependentUpon>ventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="verInfoEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verInfoEmpleados.Designer.cs">
+      <DependentUpon>verInfoEmpleados.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cambiarInfoProducto.resx">
+      <DependentUpon>cambiarInfoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cambioDeInfoEmpleados.resx">
+      <DependentUpon>cambioDeInfoEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cambioGerencia.resx">
+      <DependentUpon>cambioGerencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="entradas.resx">
+      <DependentUpon>entradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevoDepartamento.resx">
+      <DependentUpon>nuevoDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevoEmpleado.resx">
+      <DependentUpon>nuevoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevoProducto.resx">
+      <DependentUpon>nuevoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nuevosPuestos.resx">
+      <DependentUpon>nuevosPuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="revisarStock.resx">
+      <DependentUpon>revisarStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventas.resx">
+      <DependentUpon>ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verInfoEmpleados.resx">
+      <DependentUpon>verInfoEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

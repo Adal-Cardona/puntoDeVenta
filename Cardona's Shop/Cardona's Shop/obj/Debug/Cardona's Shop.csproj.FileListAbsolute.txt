@@ -1,0 +1,22 @@
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona's Shop.csproj.AssemblyReference.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.Bienvenida.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.cambiarInfoProducto.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.cambioDeInfoEmpleados.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.cambioGerencia.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.entradas.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.Form1.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.nuevoDepartamento.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.nuevoEmpleado.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.nuevoProducto.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.nuevosPuestos.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.revisarStock.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.ventas.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.verInfoEmpleados.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona's Shop.csproj.GenerateResource.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\bin\Debug\Cardona's Shop.exe.config
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\bin\Debug\Cardona's Shop.exe
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\bin\Debug\Cardona's Shop.pdb
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona_s_Shop.Properties.Resources.resources
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona's Shop.csproj.CoreCompileInputs.cache
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona's Shop.exe
+C:\Users\adalc\OneDrive\Documentos\UVNE\5to\progr. de Sistemas\3P\Cardona's Shop\Cardona's Shop\obj\Debug\Cardona's Shop.pdb
